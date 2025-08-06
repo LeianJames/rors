@@ -1,0 +1,22 @@
+head {
+    background-color: rgb(238, 13, 13);
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+
+body {
+    background-color: aliceblue;
+    size: 100cm;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 2em;
+}
+
+h2{
+    color: deeppink;
+    font-size: larger;
+    font-size: 100cm;
+}
